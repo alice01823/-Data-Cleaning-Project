@@ -23,3 +23,14 @@ The data cleaning project aims to improve the quality and reliability of dataset
 - Increased efficiency and productivity in data cleaning tasks through the use of automated scripts and standardized methodologies.
 - Enhanced understanding of data cleaning best practices and techniques among data practitioners and analysts.
 - Greater transparency and reproducibility in data cleaning processes, enabling better collaboration and knowledge sharing within the community.
+
+  ### Jupyter Notebook
+  http://localhost:8888/files/Cleaning%20datasets.ipynb?_xsrf=2%7Ccc443084%7C82ebd4247659e0e28dab7c9b5545f545%7C1709147961
+
+  ### Conclusion
+  data cleaning is a fundamental aspect of data science and analytics, laying the foundation for accurate, reliable, and meaningful insights from data. By investing time and effort into data cleaning processes, we can unlock the full potential of our datasets and derive actionable insights that drive informed decision-making and drive business value.
+
+
+
+
+
