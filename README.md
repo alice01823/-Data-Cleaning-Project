@@ -1,4 +1,4 @@
-# -Data-Cleaning-Project
+# Data-Cleaning-Project
 
 ### Project Overview:
 The data cleaning project aims to improve the quality and reliability of datasets by addressing common issues encountered during the data cleaning process. Data cleaning is an essential step in the data preprocessing pipeline, ensuring that datasets are accurate, consistent, and free from errors or inconsistencies that could affect downstream analysis or modeling.
